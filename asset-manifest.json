@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sooflix/static/js/main.20f4b3bc.js",
+    "index.html": "/sooflix/index.html",
+    "main.20f4b3bc.js.map": "/sooflix/static/js/main.20f4b3bc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.20f4b3bc.js"
+  ]
+}

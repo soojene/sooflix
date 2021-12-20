@@ -141,12 +141,12 @@ const boxVariants = {
     scale: 1,
   },
   hover: {
-    scale: 1.3,
-    y: -80,
+    scale: 1.12,
+    y: -10,
     transition: {
-      delay: 0.5,
+      // delay: 0,
       duaration: 0.1,
-      type: "tween",
+      // type: "tween",
     },
   },
 };

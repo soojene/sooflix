@@ -76,7 +76,7 @@ const Input = styled(motion.input)`
   transform-origin: right center;
   position: absolute;
   right: 0px;
-  padding: 5px 30px 5px 5px;
+  padding: 0px 30px 3px 5px;
   /* padding-left: 40px; */
   z-index: -1;
   color: white;
@@ -182,7 +182,7 @@ function Header() {
             // animate={{ x: searchOpen ? 0 : 0 }}
             transition={{ type: "linear" }}
             fill="currentColor"
-            viewBox="0 -5 25 25"
+            viewBox="0 -5 17 30"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
